@@ -1,0 +1,29 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+.container {
+    background-image: url('..\projects\main-assignment\Banner Image.png');
+}
+
+.mini-title {
+    color: #FFF;
+    text-align: center;
+
+    font-size: 32px;
+
+    font-weight: 400;
+
+
+}
+
+.big-title {
+    color: #FFF;
+    text-align: center;
+
+    font-size: 72px;
+
+    font-weight: 900;
+    line-height: 95px;
+    /* 131.944% */
+}
